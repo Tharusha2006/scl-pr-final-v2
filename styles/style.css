@@ -156,7 +156,8 @@ body {
 
 @media (max-width:768px) {
     .content-max-header {
-        width: 96%;
+        width: 80%;
+        height: 250px;
     }
     .content-max-header img {
         width: 100px;
